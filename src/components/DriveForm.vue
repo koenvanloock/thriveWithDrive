@@ -138,7 +138,12 @@
 </script>
 
 <style>
-  h1{
+  h1 {
     text-align: center;
+  }
+
+  #pie {
+    width: 400px;
+    height: 400px;
   }
 </style>
